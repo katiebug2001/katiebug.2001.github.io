@@ -1,12 +1,12 @@
 title: Katie Honsinger # your name (or website title) here
 logo: "katiebug.2001.github.io/images/IMG_6657.JPG" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <img src = "katiebug.2001.github.io/images/IMG_6657.JPG">
+  <img src = "katiebug.2001.github.io/images/IMG_6657.JPG" alt="hi" class="inline"/>
   First description 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://xkcd.com/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/katie-honsinger">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-slate
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
