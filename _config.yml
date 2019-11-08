@@ -2,11 +2,12 @@ title: Katie Honsinger # your name (or website title) here
 #logo: "/portfolio/images/IMG_6657.JPG" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <img src = "/portfolio/images/IMG_6657.JPG" style="width:181px;height:300px>
+  <br><br>
   First description 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/katie-honsinger">View My LinkedIn Profile</a> 
+  <aside> <a href="https://www.linkedin.com/in/katie-honsinger">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-slate
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
