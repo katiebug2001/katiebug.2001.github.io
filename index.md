@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-#<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 <a href="/sample_page"><img src="images/dummy_thumbnail.jpg?raw=true" style="width:82px; height:86px" title="White flower" alt="Flower"></a>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
