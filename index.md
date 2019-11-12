@@ -4,9 +4,10 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Double Linked List]<!--(/sample_page)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-<a href="/sample_page"><img src="images/dummy_thumbnail.jpg?raw=true" style="width:82px; height:86px" title="White flower" alt="Flower"></a>
+<a href="https://github.com/katiebug2001/CS_132/tree/master/linked_list_template">
+  <img src="images/DLL_graphic.png" style="width:400px; height:300px"></a>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
