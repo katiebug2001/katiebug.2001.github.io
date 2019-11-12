@@ -2,7 +2,7 @@
 
 ---
 
-### Double Liked List 
+### Double Linked List 
 
 <!--[Double Linked List](/sample_page)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
@@ -11,23 +11,30 @@
 <br>I created a template double linked list class from scratch. 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+### Huffman Tree
+<a href = "https://github.com/katiebug2001/CS_233/tree/master/HuffmanCodingStart/HuffmanCoding">
+  <img src="images/Huffman_tree.png" style="width:328px; height:154px"><a/>
+Implemented huffman coding encryption algorithm. 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+  
+### Triangle Area
+<a href="https://github.com/katiebug2001/CS_260/blob/master/HonsingerP4.s">
+  <img src="images/triangle.png" style="width:275; height:183"/>
+Assembly program that calculates the area of a triangle.
 ---
 
-### Category Name 2
-
+### NAND to Tetris
+<a href="https://github.com/katiebug2001/nand_to_tetris/tree/master/projects">
+  <img src="images/NAND.png" style="width:225px; height:225px"/>
+Programming course to build a functioning computer starting from a NAND gate
+<!--
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
+-->
 ---
 
 
