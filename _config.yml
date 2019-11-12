@@ -3,11 +3,12 @@ title: Katie Honsinger # your name (or website title) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <img src = "/portfolio/images/IMG_6657.JPG" style="width:162px;height:242px">
   <br><br>
-  First description 
+  I'm a Computer Science major at Seattle Pacific University. <br>
+  For me, Computer Science is an outlet to combine my love of hard data and critical, 
+  analytical thinking with solving the real-world problems of real-world people.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/katie-honsinger">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/katie-honsinger">Check out my LinkedIn profile</a> 
+  <a href = "https://docs.google.com/document/d/1jDcBCDkqtzA2WsUJCvO5RoOyhqoP9VpDotY9nuZGgDQ/edit?usp=sharing"> or my Resume</a>
   
 theme: jekyll-theme-slate
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
