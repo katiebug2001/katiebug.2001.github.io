@@ -2,12 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Double Liked List 
 
-[Double Linked List]<!--(/sample_page)
+<!--[Double Linked List](/sample_page)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 <a href="https://github.com/katiebug2001/CS_132/tree/master/linked_list_template">
   <img src="images/DLL_graphic.png" style="width:400px; height:300px"></a>
+I created a template double linked list class from scratch. 
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
