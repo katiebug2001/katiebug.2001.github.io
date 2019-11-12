@@ -16,18 +16,22 @@
 <a href = "https://github.com/katiebug2001/CS_233/tree/master/HuffmanCodingStart/HuffmanCoding">
   <img src="images/Huffman_tree.png" style="width:328px; height:154px"><a/>
 <br>Implemented huffman coding encryption algorithm. 
+  
 ---
   
 ### Triangle Area
 <a href="https://github.com/katiebug2001/CS_260/blob/master/HonsingerP4.s">
   <img src="images/triangle.png" style="width:275; height:183"/><a/>
 <br>Assembly program that calculates the area of a triangle.
+  
 ---
 
 ### NAND to Tetris
 <a href="https://github.com/katiebug2001/nand_to_tetris/tree/master/projects">
   <img src="images/NAND.png" style="width:225px; height:225px"/><a/>
 <br>Programming course to build a functioning computer starting from a NAND gate
+  
+  
 <!--
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -35,6 +39,8 @@
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 -->
+
+
 ---
 
 
