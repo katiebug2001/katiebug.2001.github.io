@@ -12,7 +12,7 @@
 <br>
 - I implemented the Huffman compression algorithm.
 - My program could encode, store, and decode files using a huffman coding binary search tree
-- I also wrote comprehensive automatic unittests, encompassing ----- cases 
+- I also wrote comprehensive automatic unittests 
   
  ---
 
@@ -22,7 +22,7 @@
   <img src="images/DLL_GRAPHIC final.jpg" style="width:240px; height:180px"></a>
 <br>
 - Stores data in a sorted list with no duplicates.
-- This program was one of my first experiences writing my own data type. I focused on making my code well-documented, readable, effective, and effecient. 
+- This program was one of my first experiences writing my own data type. I focused on making my code well-documented, readable, effective, and efficient. 
 - Writing a linked list allowed me to practice extensively with pointers and member functions as well as friend functions, interactions between classes, and iterators. 
 
 
@@ -32,10 +32,10 @@
 <a href="https://github.com/katiebug2001/nand_to_tetris/tree/master/projects">
   <img src="images/NAND final.jpg" style="width:240px; height:180px"/><a/>
 <br>
-- Programming course to build a fully funcional computing platform up from a NAND gate
+- Programming course to build a fully functional computing platform up from a NAND gate
 - This course allowed me to connect the low-level digital logic I love to assembly language and fully understand every step along the way.
 - <a href = "https://www.nand2tetris.org/" style = "color:#E51746">Course Website</a>
-- I completed projects 1-6 from the course
+- I completed part 1, which was the hardware component of the course
 
 ---
   
