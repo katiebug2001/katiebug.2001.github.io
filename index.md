@@ -1,6 +1,6 @@
 # Portfolio
 
-**---**
+---
 
 ---
 <!--[Double Linked List](/sample_page)
