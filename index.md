@@ -29,8 +29,13 @@
 ### NAND to Tetris
 <a href="https://github.com/katiebug2001/nand_to_tetris/tree/master/projects">
   <img src="images/NAND final.jpg" style="width:240px; height:180px"/><a/>
-<br>Programming course to build a functioning computer starting from a NAND gate
-  
+<br>
+- Programming course to build a fully funcional computing platform up from a NAND gate
+- This project allowed me to connect the low-level digital logic I love to assembly language and fully understand every step along the way.
+- <a href = "https://www.nand2tetris.org/" style = "color:#E51746"/>Course Website</a>
+- I completed projects 1-6 from the course
+
+
   
 <!--
 - [Project 1 Title](http://example.com/)
