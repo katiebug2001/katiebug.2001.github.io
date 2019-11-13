@@ -1,8 +1,6 @@
 ## Portfolio
 
 ---
----
-
 <!--[Double Linked List](/sample_page)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
@@ -64,8 +62,6 @@
 
 
 ---
-
-
 
 
 ---
