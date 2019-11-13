@@ -21,9 +21,9 @@
 <a href="https://github.com/katiebug2001/CS_132/tree/master/linked_list_template">
   <img src="images/DLL_GRAPHIC final.jpg" style="width:240px; height:180px"></a>
 <br>
--Stores data in a sorted list with no duplicates.
--This program was one of my first experiences writing my own data type. I focused on making my code well-documented, readable, effective, and effecient. 
--Writing a linked list allowed me to practice extensively with pointers and member functions as well as friend functions, interactions between classes, and iterators. 
+- Stores data in a sorted list with no duplicates.
+- This program was one of my first experiences writing my own data type. I focused on making my code well-documented, readable, effective, and effecient. 
+- Writing a linked list allowed me to practice extensively with pointers and member functions as well as friend functions, interactions between classes, and iterators. 
 
 
 ---
