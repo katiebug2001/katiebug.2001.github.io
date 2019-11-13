@@ -15,14 +15,21 @@
 ### Huffman Tree
 <a href = "https://github.com/katiebug2001/CS_233/tree/master/HuffmanCodingStart/HuffmanCoding">
   <img src="images/HUFFMAN_TREE final.jpg" style="width:240px; height:180px"><a/>
-<br>Implemented huffman coding encryption algorithm. 
+<br>
+- I implemented the Huffman compression algorithm.
+- My program could encode, store, and decode files using a huffman coding binary search tree
+- I also wrote extensive automatic unittests, including ----- cases 
+
   
 ---
   
 ### Triangle Area
 <a href="https://github.com/katiebug2001/CS_260/blob/master/HonsingerP4.s">
   <img src="images/TRIANGLE final.jpg" style="width:240px; height:180px"/><a/>
-<br>Assembly program that calculates the area of a triangle.
+<br>
+- MIPS assembly program to calculate the area of a triangle
+- I was commended by my professor for my work on this assignment, and he used my code for the solution given to the class. 
+
   
 ---
 
