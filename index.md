@@ -31,8 +31,8 @@
   <img src="images/NAND final.jpg" style="width:240px; height:180px"/><a/>
 <br>
 - Programming course to build a fully funcional computing platform up from a NAND gate
-- This project allowed me to connect the low-level digital logic I love to assembly language and fully understand every step along the way.
-- <a href = "https://www.nand2tetris.org/" style = "color:#E51746"/>Course Website</a>
+- This course allowed me to connect the low-level digital logic I love to assembly language and fully understand every step along the way.
+- <a href = "https://www.nand2tetris.org/" style = "color:#E51746">Course Website</a>
 - I completed projects 1-6 from the course
 
 
@@ -52,5 +52,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio" style = "color:#E51746">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
