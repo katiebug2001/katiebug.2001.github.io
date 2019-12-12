@@ -16,7 +16,8 @@
 - Although it was a challenge at first, I really enjoyed using bit masking and bit manipulation during this project. 
 - This program also let me practice not only writing a binary search tree, but building one from a given data set and then using it throughout the compression process, storing it in the compressed file, and reconstructing it during the decompression processs.
 - Project from Data Structures & Algorithms class at Everett Community College, instructor Robert Ward
- ---
+ 
+---
 
 ### Double Linked List 
 
