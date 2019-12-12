@@ -15,7 +15,7 @@
 - I also wrote comprehensive automatic unittests.
 - Although it was a challenge at first, I really enjoyed using bit masking and bit manipulation during this project. 
 - This program also let me practice not only writing a binary search tree, but building one from a given data set and then using it throughout the compression process, storing it in the compressed file, and reconstructing it during the decompression processs.
-
+- Project from Data Structures & Algorithms class at Everett Community College, instructor Robert Ward
  ---
 
 ### Double Linked List 
@@ -26,6 +26,7 @@
 - Stores data in a sorted list with no duplicates.
 - This program was one of my first experiences writing my own data type. I focused on making my code well-documented, readable, effective, and efficient. 
 - Writing a linked list allowed me to practice extensively with pointers and member functions as well as friend functions, interactions between classes, and iterators. 
+- Project from Computer Science II at Everett Community College, instructor Lonnie Heinke
 
 
 ---
@@ -48,7 +49,7 @@
 - My MIPS assembly program to calculate the area of a triangle
 - I was commended by my professor for my work on this assignment, and he used my code for the solution given to the class. 
 - Learning assembly and writing programs in it helped me understand compilers better and made me think about how to be more efficient when using high-level languages, as well as giving me a better appreciation for those high level languages!
-
+- Project from Computer Architecture class at Everett Community College, instructor Mark Parker
   
 
 
