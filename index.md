@@ -11,7 +11,7 @@ Take a look at my
  or my 
 <a href = "https://docs.google.com/document/d/1cVIBF1EbtwgrIiXsw_PVmi1fSVNHfQkdOwSudeZ0krA/edit?usp=sharing" style = "color:#E51746">Resume</a>
 ## Here are some of my  favorite projects!
-_click the links to learn more_
+_click an image to learn more_
 
 ---
 
