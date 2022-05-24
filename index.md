@@ -18,16 +18,16 @@ _click an image to learn more_
 ---
 ### Avionics Internship
 <a href="https://katiebug2001.github.io/portfolio/dynon">
-<img src="images/dynon_panel.jpg" style="width:40%"></a>
+<img src="images/dynon_panel.jpg" style="width:50%"></a>
 
 ### PLOT Library Cataloging
 <a href="https://katiebug2001.github.io/portfolio/plot">
-<img src = "images/search.png" style="width=40%"></a>
+<img src = "images/search.png" style="width:50%"></a>
 
 
 ### Microcontroller Starblasters
 <a href="https://katiebug2001.github.io/portfolio/starblasters">
-<img src = "images/starblasters.png" style="width=40%"></a>  
+<img src = "images/starblasters.png" style="width:50%"></a>  
  
  ---
 
