@@ -1,5 +1,5 @@
 ## Dynon Internship
-<img src = "images/dynon_panel.jpg" width=80%>  
+<img src = "images/dynon_panel.jpg" style="width=80%">  
 Image provided by [dynonavionics.com](dynonavionics.com)  
 
 I interned with Dynon Avionics from January through March 2022. During my time there, I developed and tested new features for the SkyView HDX displays, resolved issues for multiple releases, and helped with final testing of features for release.
