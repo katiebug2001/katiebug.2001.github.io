@@ -20,14 +20,16 @@ _click an image to learn more_
 <a href="https://katiebug2001.github.io/portfolio/dynon">
 <img src="images/dynon_panel.jpg" style="width:40%"></a>
 
-### [PLOT Library Cataloging](/plot)
-<img src = "images/search.png" width=40%>
+### PLOT Library Cataloging
+<a href="https://katiebug2001.github.io/portfolio/plot">
+<img src = "images/search.png" width=40%></a>
 
 
-### [Microcontroller Starblasters](/starblasters)
-<img src = "images/starblasters.png" width=40%>
-[Starblasters Project](./starblasters)  
----
+### Microcontroller Starblasters
+<a href="https://katiebug2001.github.io/portfolio/starblasters">
+<img src = "images/starblasters.png" width=40%></a>  
+ 
+ ---
 
 
 ---
