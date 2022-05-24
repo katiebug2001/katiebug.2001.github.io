@@ -17,8 +17,8 @@ _click the links to learn more_
 
 ---
 ### [Avionics Internship](/dynon)
-<img src = "images/dynon_panel.jpg" width=40%>
-
+<a href="https://github.com/katiebug2001/portfolio/dynon">
+<img src="images/dynon_panel.jpg" style="width:40%"></a>
 
 ### [PLOT Library Cataloging](/plot)
 <img src = "images/search.png" width=40%>
