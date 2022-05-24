@@ -17,7 +17,7 @@ _click a photo to learn more_
 
 ---
 ### Microcontroller Starblasters
-<a href = "./starblasters" width=25%><img src = "images/starblasters.png" width=25%></a>
+<a href = "./starblasters" width=25%> <img src = "images/starblasters.png" width=25%> </a>
 
 
 ---
