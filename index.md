@@ -11,14 +11,21 @@ Take a look at my
  or my 
 <a href = "https://docs.google.com/document/d/1cVIBF1EbtwgrIiXsw_PVmi1fSVNHfQkdOwSudeZ0krA/edit?usp=sharing" style = "color:#E51746">Resume</a>
 ## Here are some of my  favorite projects!
-_click a photo to learn more_
+_click the links to learn more_
 
 ---
 
 ---
-### Microcontroller Starblasters
-<a href = "./starblasters" width=25%> <img src = "images/starblasters.png" width=25%> </a>
+### [Avionics Internship](/dynon)
+<img src = "images/dynon_panel.jpg" width=40%>
 
+
+### [PLOT Library Cataloging](/plot)
+<img src = "images/search.png" width=40%>
+
+
+### [Microcontroller Starblasters](/starblasters)
+<img src = "images/starblasters.png" width=40%>
 
 ---
 
