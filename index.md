@@ -16,8 +16,8 @@ _click the links to learn more_
 ---
 
 ---
-### [Avionics Internship](/dynon)
-<a href="https://github.com/katiebug2001/portfolio/dynon">
+### Avionics Internship
+<a href="https://katiebug2001.github.io/portfolio/dynon">
 <img src="images/dynon_panel.jpg" style="width:40%"></a>
 
 ### [PLOT Library Cataloging](/plot)
@@ -26,7 +26,7 @@ _click the links to learn more_
 
 ### [Microcontroller Starblasters](/starblasters)
 <img src = "images/starblasters.png" width=40%>
-
+[Starblasters Project](./starblasters)  
 ---
 
 
