@@ -1,20 +1,23 @@
-# Portfolio
+<img src = "images/IMG_6657.JPG" style="width:162px;height:242px">  
+
+## I'm a Computer Science student at Seattle Pacific University.
+In June, 2022 I will be graduating with a Bachelor of Science in Computer Science, a Bachelor of Arts in Honors Liberal Arts, and Minors in Math and Data Analytics.
+
+Computer Science is my outlet to combine my gift for abstract, 
+analytical thinking with my love of solving real-world problems for real-world people.  
+
+Take a look at my 
+<a href="https://www.linkedin.com/in/katie-honsinger" style = "color:#E51746">LinkedIn profile</a> 
+ or my 
+<a href = "https://docs.google.com/document/d/1cVIBF1EbtwgrIiXsw_PVmi1fSVNHfQkdOwSudeZ0krA/edit?usp=sharing" style = "color:#E51746">Resume</a>
+## Here are some of my  favorite projects!
+_click a photo to learn more_
 
 ---
 
 ---
-
-[Starblasters Project](./starblasters)
-
-  
-<!--
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
--->
-
+### Microcontroller Starblasters
+[<img src = "images/starblasters.png" width=25%>](./starblasters)
 
 ---
 
