@@ -22,12 +22,12 @@ _click an image to learn more_
 
 ### PLOT Library Cataloging
 <a href="https://katiebug2001.github.io/portfolio/plot">
-<img src = "images/search.png" width=40%></a>
+<img src = "images/search.png" style="width=40%"></a>
 
 
 ### Microcontroller Starblasters
 <a href="https://katiebug2001.github.io/portfolio/starblasters">
-<img src = "images/starblasters.png" width=40%></a>  
+<img src = "images/starblasters.png" style="width=40%"></a>  
  
  ---
 
